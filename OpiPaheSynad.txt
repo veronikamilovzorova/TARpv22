@@ -1,0 +1,9 @@
+ПО - Tarkvara -TA
+Процесс разработки ПО - Tarkvara arendusprotsess
+Документация на ПО -Tarkvara dokumentatsioon
+Проект - Projekt
+ИТ проект - IT-projekt
+Бизнес-проект - Äriprojekt
+Проект по разработке - Rakendamisprojekt
+Проект по реализации - Rakendamisprojekt
+Диаграмма Ганта - Gantti diagramm
